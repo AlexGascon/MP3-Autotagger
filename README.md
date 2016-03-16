@@ -14,7 +14,7 @@ In order to do so, the scanned folder must follow a specifical structure: it mus
 4. **Execute the script**: execute the script and wait for it to finish
 
 
-# Known bugs and future improvements
+#### Fture improvements
 - Currently, UNICODE is not supported. If any folder or file has a non-ascii character, the execution will break.
 - Autotag non-MP3 audio files. This will be implemented in a near future, but isn't currently available as the program considers that every non-mp3 file isn't a music one.
 - Executable/command line program. Actually, MP3-Autotagger only works by downloading and executing the source code. In a near future, there will be an easier way to execute it.
